@@ -8,3 +8,6 @@
 - 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB
 - 📫 How to reach me: brendanxure@outlook.com
 - ⚡ Fun fact: I love life
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=brendanxure&theme=highcontrast)](https://git.io/streak-stats)
