@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate with developers with fascinating skills
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, MySQL
-- ✍️ I write Javascript and  Python
+- ✍️ I write Javascript and Python
 - 📫 How to reach me: brendanxure@outlook.com
-- ⚡ Fun fact: I love learning.
+- ⚡ Fun fact: I love learning new stuff.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=brendanxure)](https://git.io/streak-stats)
 
