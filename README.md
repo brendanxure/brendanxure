@@ -8,7 +8,7 @@
 - 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, MySQL
 - ✍️ I write Javascript and Python
 - 📫 How to reach me: brendanxure@outlook.com
-- ⚡ Fun fact: I love learning new stuff.
+- ⚡ Fun fact: I love learning new things.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=brendanxure)](https://git.io/streak-stats)
 
