@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on something that will blow your mind
 - 🌱 I’m currently learning Software Testing
 - 👯 I’m looking to collaborate with developers with fascinating skills
-- 🤔 I’m looking for help with Java
+- 🤔 I’m looking for help with C#
 - 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, MySQL
-- ✍️ I write Javascript and Python
+- ✍️ I write Javascript, Python and Java
 - 📫 How to reach me: brendanxure@outlook.com
 - ⚡ Fun fact: I love to learn new things.
 
