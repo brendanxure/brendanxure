@@ -2,10 +2,10 @@
                                                                
 
 - 🔭 I’m currently working on something that will blow your mind
-- 🌱 I’m currently learning Software Testing
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate with developers with fascinating skills
 - 🤔 I’m looking for help with C#
-- 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, MySQL
+- 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, SQL
 - ✍️ I write Javascript, Python and Java
 - 📫 How to reach me: brendanxure@outlook.com
 - ⚡ Fun fact: I love to learn new things.
