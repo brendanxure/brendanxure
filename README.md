@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate with developers with fascinating skills
 - 🤔 I’m looking for help with .NET
-- 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, SQL
+- 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, SQL, Selenium Web Testing
 - ✍️ I write Javascript, Python and Java
 - 📫 How to reach me: brendanxure@outlook.com
 - ⚡ Fun fact: I love to learn new things.
