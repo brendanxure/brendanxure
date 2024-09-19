@@ -2,7 +2,7 @@
                                                                
 
 - 🔭 I’m currently working on something that will blow your mind
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and relational database management system
 - 👯 I’m looking to collaborate with developers with fascinating skills
 - 🤔 I’m looking for help with .NET
 - 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, SQL, Selenium Web Testing
