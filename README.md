@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Cloud Technology
 - 👯 I’m looking to collaborate with software developers equipped with fascinating skills
 - 🤔 I’m looking for help with .NET
-- 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, SQL, Selenium Web Testing
+- 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, PostgreSQL, Microsoft SQL Server, Selenium Web Testing
 - ✍️ I write Javascript, PHP, Python, C# and Java
 - 📫 How to reach me: brendanxure@outlook.com
 - ⚡ Fun fact: I love to learn new things.
