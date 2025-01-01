@@ -8,7 +8,7 @@
 - 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, PostgreSQL, Microsoft SQL Server, Selenium Web Testing
 - ✍️ I write Javascript, PHP, Python, C# and Java
 - 📫 How to reach me: brendanxure@outlook.com
-- ⚡ Fun fact: I love to learn new things.
+- ⚡ Fun fact: It's 2025, Happy New Year.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=brendanxure)](https://git.io/streak-stats)
 
