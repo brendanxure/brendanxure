@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with software developers equipped with fascinating skills
 - 🤔 I’m looking for help with .NET
 - 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, PostgreSQL, Microsoft SQL Server, Selenium Web Testing
-- ✍️ I write Javascript, PHP, Python, C# and Java
+- ✍️ I write Javascript, PHP, Python, C#, Java and COBOL.
 - 📫 How to reach me: brendanxure@outlook.com
 - ⚡ Fun fact: It's 2025, Happy New Year.
 
