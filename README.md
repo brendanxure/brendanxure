@@ -2,7 +2,7 @@
                                                                
 
 - 🔭 I’m currently working on something that will blow your mind
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate with software developers equipped with fascinating skills
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, PostgreSQL, Microsoft SQL Server, Selenium Web Testing
