@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on something that will blow your mind
 - 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate with software developers equipped with fascinating skills
-- 🤔 I’m looking for help with Flutter
+- 🤔 I’m looking for help with ASP.NET
 - 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, PostgreSQL, Microsoft SQL Server, Selenium Web Testing
 - ✍️ I write Javascript, TypeScript, PHP, Python, C#, Java and COBOL.
 - 📫 How to reach me: brendanxure@outlook.com
