@@ -11,7 +11,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=brendanxure)](https://git.io/streak-stats)
 
-![Brendan Xure's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendanxure&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanxure&layout=compact)
 ![Brendan Xure's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendanxure&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendanxure&layout=compact&theme=dark)
 
