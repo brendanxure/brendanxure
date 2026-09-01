@@ -2,9 +2,9 @@
                                                                
 
 - 🔭 I’m currently working on something that will blow your mind
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently developing softwares
 - 👯 I’m looking to collaborate with software developers equipped with fascinating skills
-- 💬 Ask me about ReactJs, NextJs, NodeJs, MongoDB, PostgreSQL, Microsoft SQL Server, Selenium Web Testing
+- 💬 Ask me about Spring Boot, ReactJs, NextJs, NodeJs, MongoDB, PostgreSQL, Microsoft SQL Server, Selenium Web Testing
 - ✍️ I write Javascript, TypeScript, Python, C#, Java and COBOL.
 - 📫 How to reach me: brendanxure@outlook.com
 - ⚡ Fun fact: I love learning new things and learn fast.
